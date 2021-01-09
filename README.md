@@ -1,5 +1,11 @@
 # LaunchcodeHW
 
-LaunchCode Data Science Track 2020 assignments help students acclimate to data science projects week-by-week.
+A 24 week immersive bootcamp that prepares student for Data Science roles.
 
-Projects includes Languages such as Python and SQL utilized to understand the fundamentals of Machine Learning with TensorFlow
+Data Science can be applied to discovering customer insights, informing digital marketing, scientific fields of research and application of predicting outcomes or optimizing processes.
+
+This course will give you a comprehensive overview of data science methods and tools. You will learn how to explore, organize, model, and visualize data.
+Languages of study include SQL and Python. 
+Students will also learn Machine Learning methods including Supervised and Unsupervised Learning
+Data science incorporates aspects of computer science, mathematics, and statistics.
+
